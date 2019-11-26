@@ -1,1 +1,1 @@
-A playground repo for Postgres experiments and learning examples. 
+A playground repo for Postgres experiments and learning examples.
